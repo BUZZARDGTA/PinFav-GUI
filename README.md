@@ -1,7 +1,7 @@
 # Pin Favorite GUI
 
 *Description*:
-> Pin your favorite window.
+> Pin your favorite window to the foreground of your screen. 
 
 *Showcase*:
 
